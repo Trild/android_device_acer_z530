@@ -2,7 +2,7 @@
 #$(call inherit-product, vendor/cm/config/gsm.mk)
 
 # Release name
-PRODUCT_RELEASE_NAME := T02
+PRODUCT_RELEASE_NAME := 50 Cobalt
 
 # SU
 WITH_SU := true
@@ -20,11 +20,11 @@ TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 720
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := acer_T02
-PRODUCT_NAME := T02_ww
-PRODUCT_BRAND := Acer
-PRODUCT_MODEL := T02
-PRODUCT_MANUFACTURER := Acer
+PRODUCT_DEVICE := persimmon
+PRODUCT_NAME := lineage_persimmon
+PRODUCT_BRAND := Archos
+PRODUCT_MODEL := Archos 50 Cobalt
+PRODUCT_MANUFACTURER := Archos
 
 PRODUCT_DEFAULT_LANGUAGE := ru
 PRODUCT_DEFAULT_REGION   := RU
